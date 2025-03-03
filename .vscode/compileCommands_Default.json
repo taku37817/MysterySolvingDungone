@@ -1,0 +1,67 @@
+[
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolving.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolving.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolving.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolvingCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolvingCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolvingGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolvingGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolvingProjectile.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolvingProjectile.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\TP_PickUpComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\TP_PickUpComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\TP_WeaponComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\TP_WeaponComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	}
+]

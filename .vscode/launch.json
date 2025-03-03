@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch MysterySolving (Debug)",
+			"request": "launch",
+			"program": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "MysterySolving Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.0\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MysterySolving (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "MysterySolving Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.0\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MysterySolving (Development)",
+			"request": "launch",
+			"program": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "MysterySolving Win64 Development Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.0\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MysterySolving (Test)",
+			"request": "launch",
+			"program": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "MysterySolving Win64 Test Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.0\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MysterySolving (Shipping)",
+			"request": "launch",
+			"program": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "MysterySolving Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.0\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MysterySolvingEditor (Debug)",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "MysterySolvingEditor Win64 Debug Build",
+			"args": [
+				"D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\MysterySolving.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE_5.0\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MysterySolvingEditor (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "MysterySolvingEditor Win64 DebugGame Build",
+			"args": [
+				"D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\MysterySolving.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE_5.0\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MysterySolvingEditor (Development)",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "MysterySolvingEditor Win64 Development Build",
+			"args": [
+				"D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\MysterySolving.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE_5.0\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Epic Games\\UE_5.0\\UE_5.0"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\MysterySolving.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "D:\\Epic Games\\UE_5.0\\UE_5.0"
+		}
+	]
+}
