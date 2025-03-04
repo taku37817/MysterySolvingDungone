@@ -1,14 +1,23 @@
 {
-	"configurations": [
-		{
-			"name": "MysterySolvingEditor Editor Win64 Development (MysterySolving)",
-			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_MysterySolving.json"
-		},
-		{
-			"name": "Win32",
-			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default.json"
-		}
-	]
+    "configurations": [
+        {
+            "name": "MysterySolvingEditor Editor Win64 Development (MysterySolving)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_MysterySolving.json"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_Default.json"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
 }

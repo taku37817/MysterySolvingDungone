@@ -1,5 +1,15 @@
 [
 	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\InteractableObject.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_MysterySolving\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\InteractableObject.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_MysterySolving\\MysterySolving.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\Source\\MysterySolving\\MysterySolving.Build.cs",
 		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Unreal_Projects\\Unreal_5.0\\MysterySolving\\.vscode\\compileCommands_MysterySolving\\MysterySolving.211.rsp",
 		"directory": "D:\\Epic Games\\UE_5.0\\UE_5.0\\Engine\\Source"
